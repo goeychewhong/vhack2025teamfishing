@@ -1,0 +1,9 @@
+"cryptoquant|1h|btc/market-data/coinbase-premium-index?window=hour" - premiumindex
+"cryptoquant|1h|btc/exchange-flows/inflow?exchange=binance&window=hour&" - inflowcryptoquant
+"cryptoquant|1h|btc/exchange-flows/outflow?exchange=binance&window=hour&" - outflow
+"cryptoquant|1h|btc/market-data/taker-buy-sell-stats?window=hour&exchange=binance" - takerbuysellstats
+"cryptoquant|1h|btc/market-data/taker-buy-sell-stats?window=hour&exchange=binance", - takerbuysell
+"cryptoquant|1h|btc/market-data/price-ohlcv?window=hour" - BTCUSDT Price
+
+xx (not enough data)"coinglass|1h|futures/orderbook/aggregated-history?exchanges=Binance&symbol=BTC&interval=1h", - bidask
+xx (not enough data)"cryptoquant|1h|btc/flow-indicator/exchange-whale-ratio?exchange=binance&window=hour" - exchange-whale
