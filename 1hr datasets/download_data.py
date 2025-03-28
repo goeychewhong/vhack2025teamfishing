@@ -37,7 +37,7 @@ for topic in endpoints:
         print(f"{url}")
         response = requests.get(
             url,
-            headers={"X-API-KEY": "7pb9XeGORorJG9LkrS8thmLicZ0Z22I66oXsKejqAVsxcREU"},
+            headers={"X-API-KEY": "..."},
         )
         print(response.reason)
         print(response.status_code)
